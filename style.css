@@ -1,0 +1,27 @@
+
+h1 { color:blue;
+}
+#image
+{
+
+    width: 200px;
+    align-items:center;
+    top:50px;
+    left:400px;
+}
+.mudanças {
+    background-color:blue;
+    width: 50%;
+    height: 220px;
+}
+#tribute-info{
+    font-family:sans-serif;
+}
+#img-div{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left:20px;
+}
+#main{
+    margin-left:30px;
+}
